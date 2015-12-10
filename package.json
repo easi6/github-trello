@@ -1,0 +1,14 @@
+{
+  "name": "trello-github",
+  "private": true,
+  "version": "0.0.1-SNAPSHOT",
+  "description": "",
+  "dependencies": {
+    "bluebird": "~3.0.6",
+    "body-parser": "~1.14.1",
+    "co": "~4.6.0",
+    "config": "~1.17.1",
+    "express": "~4.13.3",
+    "querystring": "~0.2.0"
+  }
+}
